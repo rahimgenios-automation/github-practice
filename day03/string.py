@@ -3,3 +3,5 @@ for x in "Abdul Rahim":
 
 name = "Abdul Rahim"
 text = f"Hello, {name}"
+print(text)
+

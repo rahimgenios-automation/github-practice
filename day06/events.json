@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": 101,
+        "event": "click",
+        "time": "2026-01-01T10:15"
+    },
+    {
+        "user_id": 102,
+        "event": "scroll",
+        "time": "2026-01-01T10:17"
+    },
+    {
+        "user_id": 101,
+        "event": "purchase",
+        "time": "2026-01-01T10:20"
+    },
+    {
+        "user_id": 103,
+        "event": "click",
+        "time": "2026-01-01T10:25"
+    },
+    {
+        "user_id": 102,
+        "event": "purchase",
+        "time": "2026-01-01T10:30"
+    }
+]

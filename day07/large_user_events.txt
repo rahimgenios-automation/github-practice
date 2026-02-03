@@ -1,0 +1,6 @@
+user_id=201,event=click,time=2026-01-02T09:00
+user_id=202,event=scroll,time=2026-01-02T09:01
+user_id=201,event=purchase,time=2026-01-02T09:02
+user_id=203,event=click,time=2026-01-02T09:03
+user_id=202,event=purchase,time=2026-01-02T09:04
+user_id=201,event=scroll,time=2026-01-02T09:05
